@@ -24,3 +24,4 @@ This project simulates an IoT-based predictive maintenance system using ESP32 to
 
 ## Project Status
 Completed as a virtual simulation using Wokwi. Real motor testing and physical sensor integration are future enhancements.
+https://wokwi.com/projects/477956351496602625
